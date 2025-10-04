@@ -24,3 +24,9 @@ ul{
 section li:nth-child(odd){
     background-color:aquamarine;
 }
+.site-links{
+    list-style-type: none;
+}
+a:link, a:visited{
+    text-decoration: none;
+}
