@@ -7,6 +7,7 @@ img {
 header,footer {
        background-color: pink;
        padding: 5px;
+       text-align: center;
     }
 body {
     font-size: 18px;
@@ -26,11 +27,12 @@ section li:nth-child(odd){
 }
 .site-links{
     list-style-type: none;
+    text-align:left;
 }
 a:link, a:visited{
     text-decoration: none;
     border-width: 5px;
-    border-style: groove; 
+    border-style: inset; 
     border-color:aquamarine;
     background-color:azure;
 }
