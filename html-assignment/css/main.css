@@ -5,9 +5,10 @@ img {
         object-fit: cover
     }
 header,footer {
-       background-color: pink;
+       background-color: #23395b;
        padding: 5px;
        text-align: center;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
 body {
     font-size: 18px;
@@ -28,6 +29,8 @@ section li:nth-child(odd){
 .site-links{
     list-style-type: none;
     text-align:left;
+    float: left;
+    
 }
 a:link, a:visited{
     text-decoration: none;
@@ -37,5 +40,6 @@ a:link, a:visited{
     background-color:azure;
 }
 a:hover{
-    color:red;
+    color:black;
+    background-color: #8EA8C3;
 }
