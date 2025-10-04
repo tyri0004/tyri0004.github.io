@@ -5,7 +5,8 @@ img {
         object-fit: cover
     }
 header,footer {
-       background-color: pink
+       background-color: pink;
+       text-align: center;
     }
 body {
     font-size: 18px;
