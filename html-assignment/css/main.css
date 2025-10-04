@@ -5,13 +5,7 @@ img {
         object-fit: cover
     }
 header,footer {
-        text-align: center;
-        padding: 5px;
-        background: #ffd1dc;
-        position: fixed;
-        bottom: 0;
-        left: 0;
-        width: 100%;
+       background-color: pink
     }
 body {
     font-size: 18px;
