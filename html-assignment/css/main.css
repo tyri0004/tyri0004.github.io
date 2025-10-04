@@ -24,7 +24,7 @@ ul{
     list-style-type: square;
 }
 section li:nth-child(odd){
-    background-color:aquamarine;
+    background-color:#406E8E;
 }
 .site-links{
     list-style-type: none;
@@ -36,7 +36,7 @@ a:link, a:visited{
     text-decoration: none;
     border-width: 5px;
     border-style: inset; 
-    border-color:aquamarine;
+    border-color:#406E8E;
     background-color:azure;
 }
 a:hover{
