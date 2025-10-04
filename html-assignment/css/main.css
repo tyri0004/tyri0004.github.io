@@ -30,8 +30,9 @@ section li:nth-child(odd){
 a:link, a:visited{
     text-decoration: none;
     border-width: 5px;
-    border-style: dotted; 
+    border-style: groove; 
     border-color:aquamarine;
+    background-color:azure;
 }
 a:hover{
     color:red;
