@@ -15,3 +15,6 @@ body {
 .site-title{
     color:white;
 }
+#my-image{
+    box-shadow: 0 0 2px 1px black;
+}
