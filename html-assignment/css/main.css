@@ -29,4 +29,10 @@ section li:nth-child(odd){
 }
 a:link, a:visited{
     text-decoration: none;
+    border-width: 5px;
+    border-style: dotted; 
+    border-color:aquamarine;
+}
+a:hover{
+    color:blueviolet;
 }
