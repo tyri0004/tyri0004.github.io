@@ -1,10 +1,10 @@
-img{
+img {
         width: 300px;
         height: 300px;
         border-radius: 50%;
         object-fit: cover
     }
-footer{
+header,footer {
         text-align: center;
         padding: 5px;
         background: #ffd1dc;
