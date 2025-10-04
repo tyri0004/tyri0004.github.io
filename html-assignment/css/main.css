@@ -9,6 +9,7 @@ header,footer {
        padding: 5px;
        text-align: center;
        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       width: 100%;
     }
 body {
     font-size: 18px;
@@ -44,6 +45,10 @@ a:hover{
     background-color: #8EA8C3;
 }
 #main-head{
+    text-align: center;
+    text-indent: -15%;
+}
+#notes-heading{
     text-align: center;
     text-indent: -15%;
 }
