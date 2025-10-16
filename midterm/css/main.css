@@ -70,5 +70,11 @@ nav li:last-child{
 .form form{
     border: 1px solid black;
 }
+.form input{
+    width: 75%; 
+    padding: 20px;
+   
+
+}
 
 
