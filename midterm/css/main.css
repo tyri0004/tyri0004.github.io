@@ -24,3 +24,13 @@ h1{
     transform: translate(-50%, -50%);  
     font-size: 30pt;
 }
+nav ul{
+    text-align: center;
+}
+nav li{
+    display:inline; 
+    padding: 10px;
+}
+nav li a{
+    text-decoration: none;
+}
