@@ -67,4 +67,8 @@ nav li:last-child{
     margin-right: 10px;
 }
 
+.form form{
+    border: 1px solid black;
+}
+
 
