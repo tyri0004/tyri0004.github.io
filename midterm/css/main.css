@@ -89,3 +89,7 @@ button:hover{
     box-shadow: 20px 20px 20px 0px black; 
 }
 
+.form label{
+    margin-left: 10px;
+   
+}
