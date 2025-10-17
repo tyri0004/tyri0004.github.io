@@ -26,7 +26,7 @@ header img{
 header h1{
     color:azure;
     position: absolute; 
-    top: 45%;
+    top: 60%;
     left: 50%;
     transform: translate(-50%, -50%);  
     font-size: 2.5em;
@@ -69,16 +69,17 @@ nav li:last-child{
 
 .form form{
     border: 1px solid black;
+    padding-top: 20px; 
 }
 .form input{
-    width: 90%;
+    width: 95%;
     margin: 10px;
    
 }
 button{
     padding: 10px; 
     background: none; 
-    margin: 20px;
+    margin: 15px;
     transition: background-color 2s, transform 2s ;
 }
 
