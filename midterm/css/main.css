@@ -76,5 +76,9 @@ nav li:last-child{
    
 
 }
-
+button{
+    padding: 10px; 
+    background: none; 
+    
+}
 
