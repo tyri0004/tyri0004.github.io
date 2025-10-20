@@ -74,6 +74,7 @@ nav li:last-child{
 .form input{
     width: 95%;
     margin: 10px;
+    border: 1px solid lightgray;
    
 }
 button{
