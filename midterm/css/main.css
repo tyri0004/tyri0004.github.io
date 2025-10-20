@@ -77,6 +77,12 @@ nav li:last-child{
     border: 1px solid lightgray;
    
 }
+textarea{
+    width: 95%;
+    height: 100px;
+    margin: 10px; 
+    border: 1px solid grey; 
+}
 button{
     padding: 10px; 
     background: none; 
