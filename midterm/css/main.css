@@ -83,6 +83,9 @@ textarea{
     margin: 10px; 
     border: 1px solid grey; 
 }
+.form .radio{
+    display: flex;
+}
 button{
     padding: 10px; 
     background: none; 
