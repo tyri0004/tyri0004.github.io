@@ -83,9 +83,19 @@ textarea{
     margin: 10px; 
     border: 1px solid grey; 
 }
-.form .radio{
+ .radio{
     display: flex;
 }
+.radio #yes{
+    position: relative;
+}
+.radio #no{
+    position: relative;
+}
+.radio #maybe{
+    position: relative;
+}
+
 button{
     padding: 10px; 
     background: none; 
@@ -107,4 +117,9 @@ button:hover{
 
 .head3{
     margin: 10px;
+}
+
+footer{
+    text-align: right; 
+    padding: 20px;
 }
