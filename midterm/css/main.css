@@ -88,27 +88,29 @@ textarea{
 }
 .radio #yes{
     position: relative;
+    top: 25px; 
 }
 .radio #no{
     position: relative;
+    top: 25px;
 }
 .radio #maybe{
     position: relative;
+    top: 25px;
+    left: 20px; 
+}
+.radio label{
+    position: relative; 
+    bottom: 20px;
 }
 
 button{
     padding: 10px; 
     background: none; 
-    margin: 15px;
-    transition: background-color 2s, transform 2s ;
+    margin: 10px;
+    margin-top: 3px;
 }
 
-button:hover{
-    background-color:blueviolet; 
-    color: white;
-    transform: scale(0.5);
-    box-shadow: 20px 20px 20px 0px black; 
-}
 
 .form label{
     margin-left: 10px;
