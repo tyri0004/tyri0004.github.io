@@ -127,12 +127,12 @@ button{
 
 
 .form label{
-    margin-left: 10px; 
+    margin-left: 10px; /*adjusts all form labels margin left*/
    
 }
 
 .head3{
-    margin: 10px;
+    margin: 10px; /*adjusts h3 margin*/
 }
 
 footer{
