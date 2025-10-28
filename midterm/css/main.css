@@ -20,16 +20,17 @@ header {
     text-align: center; /*centers header content*/
 }
 header img{
-    width: 100%;
-    height: 275px;
-    object-fit: cover;
+    width: 100%; 
+    height: 275px; 
+    object-fit: cover; /*allows for img to fit behind header*/
     display: block; 
 }
 
 header h1{
-    color:azure;
-    position: absolute; 
-    top: 60%;
+    color:azure; /*h1 main colour*/ 
+    position: absolute; /*allows for header content to move freely*/ 
+    /*adjusts position and size*/
+    top: 60%; 
     left: 50%;
     transform: translate(-50%, -50%);  
     font-size: 2.5em;
