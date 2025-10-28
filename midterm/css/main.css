@@ -13,11 +13,11 @@ body{
 
 }
 main{
-    padding: 10px 10px;
+    padding: 10px 10px; /*adds a padding to entire content within main*/
 }
 header { 
-    position: relative;
-    text-align: center;
+    position: relative; /*keeps header content on page*/
+    text-align: center; /*centers header content*/
 }
 header img{
     width: 100%;
