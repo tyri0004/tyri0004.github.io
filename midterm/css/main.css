@@ -96,37 +96,38 @@ textarea{
  .radio{
     display: flex; /*allows for horizontal alignment*/
 }
+
 .radio #yes{
-    position: relative;
+    position: relative; /*allows for element to be able to shift position*/
     top: 25px; 
 }
 .radio #no{
-    position: relative;
+    position: relative; /*allows for element to be able to shift position*/
     top: 25px;
     
 }
 .radio #maybe{
-    position: relative;
+    position: relative; /*allows for element to be able to shift position*/
     top: 25px;
     left: 20px; 
 }
 .radio label{
-    position: relative; 
+    position: relative; /*allows for element to be able to shift position*/
     bottom: 20px;
 }
 
 
 button{
-    padding: 10px; 
+    padding: 10px; /*gives a padding around the button for added space*/
     background: none; 
     margin: 10px;
     margin-top: 3px;
-    color: white;
+    color: white; /*changes button text colour*/
 }
 
 
 .form label{
-    margin-left: 10px;
+    margin-left: 10px; 
    
 }
 
@@ -135,6 +136,6 @@ button{
 }
 
 footer{
-    text-align: right; 
-    padding: 20px;
+    text-align: right; /*aligns footer to the right side of the wrapper*/
+    padding: 20px; /*gives space to footer*/
 }
