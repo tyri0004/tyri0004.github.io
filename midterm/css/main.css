@@ -95,6 +95,7 @@ textarea{
 .radio #no{
     position: relative;
     top: 25px;
+    
 }
 .radio #maybe{
     position: relative;
@@ -105,6 +106,7 @@ textarea{
     position: relative; 
     bottom: 20px;
 }
+
 
 button{
     padding: 10px; 
