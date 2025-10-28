@@ -19,7 +19,8 @@ header {
 }
 header img{
     width: 100%;
-    height: auto;
+    height: 275px;
+    object-fit: cover;
     display: block; 
 }
 
