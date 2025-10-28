@@ -45,6 +45,7 @@ nav ul{
     justify-content: center; /*centers the items*/
 }
 nav li{
+    /*adjusts position of nav and changes the colour*/
     margin: 0; 
     margin-top: 5px;
     border-right: 1px solid white; 
@@ -52,48 +53,48 @@ nav li{
     font-size: 1.2em;
 }
 nav a{
-    text-decoration: none;
+    text-decoration: none; /*removes underline from nav link*/
     color: white;
     display: block; 
 }
 nav li:last-child{
-    border-right: none; 
+    border-right: none; /*removes line from contact nav li on the right*/
 }
 .float img{
     height: 200px;
     width: 200px; 
     margin-left: 8px; 
-    float: left; 
+    float: left; /*allows for text to wrap around the image*/
     margin-right: 8px;
     margin-bottom: 10px; 
 
 }
 h2, form{
-    margin-left: 8px;
+    margin-left: 8px; /*aligns h2 and form left side of content*/
 }
 .float p{
-    margin-left: 10px; 
+    margin-left: 10px;  /*adds separation between the paragraph and image*/
     margin-right: 10px;
 }
 
 .form form{
-    border: 1px solid black;
-    padding-top: 20px; 
+    border: 1px solid black; /*border around the form*/
+    padding-top: 20px; /*allows for space around the border*/
 }
 .form input{
-    width: 95%;
-    margin: 10px;
-    border: 1px solid lightgray;
+    width: 95%; /*lengthens form input*/
+    margin: 10px; /*adds space from boder*/
+    border: 1px solid lightgray; /* gives input boxes a light grey border*/
    
 }
 textarea{
-    width: 95%;
-    height: 100px;
-    margin: 10px; 
-    border: 1px solid grey; 
+    width: 95%; /*lengthens textarea*/
+    height: 100px; /*adjusts the size*/
+    margin: 10px; /*allows for space between border and textarea*/
+    border: 1px solid grey; /*grey border around textarea*/
 }
  .radio{
-    display: flex;
+    display: flex; /*allows for horizontal alignment*/
 }
 .radio #yes{
     position: relative;
