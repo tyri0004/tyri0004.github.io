@@ -38,11 +38,11 @@ header h1{
 }
 
 nav ul{
-    list-style: none; 
+    list-style: none; /*removes bullet points */
     margin: 0; 
     padding: 0px; 
-    display: flex; 
-    justify-content: center; 
+    display: flex; /*makes the items side by side*/
+    justify-content: center; /*centers the items*/
 }
 nav li{
     margin: 0; 
