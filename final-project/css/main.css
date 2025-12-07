@@ -141,3 +141,8 @@ nav a{
 	background-color: #ffe6ac;
 	padding: 2rem 1rem;
 }
+.about img{
+	width: 100%;
+	display: block; 
+	
+}
