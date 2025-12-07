@@ -144,5 +144,18 @@ nav a{
 .about img{
 	width: 100%;
 	display: block; 
+
+}
+.about-us-content{
+	padding-top: 1.5rem; 
+}
+.about-us-content h2{
+	font-size: 2.5rem;
+	font-weight: bold; 
+}
+.about-us-content p{
+	font-size: 0.9rem; 
+	line-height: 1.6rem;
+	margin-top: 1rem; 
 	
 }
