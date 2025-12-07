@@ -265,4 +265,10 @@ nav a{
 	font-size: 0.9rem; 
 	line-height: 1.5; 
 }
-
+/* contact section */
+.contact-section{
+	padding: 2rem 1rem;
+}
+.contact-section h2{
+	font-size: 2.5rem;
+}
