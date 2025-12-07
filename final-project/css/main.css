@@ -129,12 +129,16 @@ nav a{
 	margin-bottom: 2rem;
 }
 .connect-button{
-	display: inline-block;
+	display: inline-flex;
+	align-items: center;
 	background-color: #c78c06;
 	font-size: 1.4rem;
 	text-decoration: none;
-	padding: 2rem 2.5rem; 
-	color: #222222; 
+	padding: 1.3rem; 
+	color: #222222;
+}
+.connect-button span{
+	font-size: 4.2rem; 
 }
 /* about-us section */
 .about{
