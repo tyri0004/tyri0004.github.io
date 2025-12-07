@@ -119,8 +119,16 @@ nav a{
 
 }
 .mainheading h1{
-	font-size: 3.5rem; 
+	font-size: 4rem; 
 	margin-bottom: 1.5rem; 
 	font-weight: bold; 
-	line-height: 1.8rem; 
+	line-height: 1.8; 
+}
+.mainheading p{
+	font-size: 0.95rem; 
+	margin-bottom: 2rem;
+}
+.main-heading a{
+	display: inline-block;
+	background-color: #c78c06;
 }
