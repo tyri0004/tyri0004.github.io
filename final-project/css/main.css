@@ -131,8 +131,9 @@ nav a{
 .connect-button{
 	display: inline-block;
 	background-color: #c78c06;
+	font-size: 1.4rem;
 	text-decoration: none;
-	padding: 0.9rem 2.3rem; 
+	padding: 2rem 2.5rem; 
 	color: #222222; 
 }
 /* about-us section */
