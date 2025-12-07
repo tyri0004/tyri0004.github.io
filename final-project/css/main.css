@@ -81,3 +81,8 @@ nav ul{
 	align-items: center; 
 	line-height: 3.6rem; 
 }
+nav a{
+	text-decoration: none; 
+	color:#c78c06; 
+	
+}
