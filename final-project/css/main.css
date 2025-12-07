@@ -171,3 +171,16 @@ nav a{
 	width: 100%; 
 	display: block; 
 }
+.service-info{ 
+	padding: 1rem; 
+}
+.service-info h3{
+	font-size: 1.5rem; 
+	font-weight: bold; 
+	margin-bottom: 1rem; 
+}
+.service-info p{
+	font-size: 0.9rem; 
+	line-height: 1.5rem; 
+	margin-bottom: 1rem; 
+}
