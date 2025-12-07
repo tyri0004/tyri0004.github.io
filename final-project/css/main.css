@@ -167,6 +167,10 @@ nav a{
 	font-weight: bold;
 	margin-bottom: 0.5rem; 
 }
+.services{
+	background-color: #ffe6ac;
+	margin-bottom: 0.5rem;
+}
 .services-text img{
 	width: 100%; 
 	display: block; 
@@ -197,3 +201,4 @@ nav a{
 .services span{
 	font-size: 4rem; 
 }
+/* vision section */
