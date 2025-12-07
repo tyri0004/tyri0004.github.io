@@ -285,10 +285,18 @@ nav a{
 .contact-form h3{
 	font-size: 1.5rem;
 	font-weight: bold; 
-	margin-bottom: 1rem; 
+	margin-bottom: 0.75rem; 
 }
 .contact-form label{
 	display: block; 
 	font-size: 0.9rem; 
 	margin-bottom: 0.25rem; 
+}
+.contact-form input, .contact-form textarea{
+	width:97%; 
+	padding: 0.5rem;
+	margin-bottom: 0.75rem;
+	border: 1px solid black; 
+	font-size: 0.9rem; 
+
 }
