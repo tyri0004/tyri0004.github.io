@@ -184,3 +184,13 @@ nav a{
 	line-height: 1.5rem; 
 	margin-bottom: 1rem; 
 }
+/* buttons for services */
+.services-button{
+	display: inline-flex; 
+	align-items: center; 
+	background-color: #222222;
+	color: #ffffff; 
+	text-decoration: none; 
+	padding: 1.6rem; 
+	font-size: 1.3rem; 
+}
