@@ -140,6 +140,7 @@ nav a{
 .about{
 	background-color: #ffe6ac;
 	padding: 2rem 1rem;
+	margin-bottom: 2rem;
 }
 .about img{
 	width: 100%;
@@ -167,14 +168,16 @@ nav a{
 	font-weight: bold;
 	margin-bottom: 0.5rem; 
 }
-.services{
+.services-text{
 	background-color: #ffe6ac;
-	margin-bottom: 0.5rem;
+	margin-bottom: 1.5rem;
 }
+
 .services-text img{
 	width: 100%; 
 	display: block; 
 }
+
 .service-info{ 
 	padding: 1rem; 
 }
