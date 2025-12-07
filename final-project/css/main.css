@@ -84,5 +84,12 @@ nav ul{
 nav a{
 	text-decoration: none; 
 	color:#c78c06; 
-	
+
+}
+.search-bar{
+	display: flex;
+}
+.search-bar input{
+	flex: 1; 
+	padding: 0.5rem; 
 }
