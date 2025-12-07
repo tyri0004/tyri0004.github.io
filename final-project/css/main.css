@@ -202,20 +202,29 @@ nav a{
 	font-size: 4rem; 
 }
 /* vision section */
-.vision {
+.vision-text{
 	background-image: url(../images/vision.jpg);
 	background-size: cover;
 	background-position: center;
 	color:#ffffff;
 	padding: 1.5rem;
 }
-.vision h2{
+.vision-text h2{
 	font-size: 1.5rem;
 	font-weight: bold; 
 	margin-bottom: 1rem; 
 }
-.vision p{
+.vision-text p{
 	font-size: 0.9rem; 
 	line-height: 1.6rem;
 	margin-bottom: 1rem;
+}
+.vision-button{
+	display:inline-block;
+	text-decoration: none;
+	padding: 1.3rem;
+	background-color: #222222;
+	border: 1px solid #c78c06;
+	color:#ffffff;
+	font-size: 1rem;
 }
