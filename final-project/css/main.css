@@ -48,3 +48,10 @@ table {
 }
 
 /* custom css start */
+
+body{
+	line-height: 1.4; 
+	font-family: Arial, Helvetica, sans-serif;
+	color: #222;
+	
+}
