@@ -111,3 +111,10 @@ nav a{
 	align-items: center;
 	padding: 3rem 0rem;
 }
+.mainheading{
+	background-color: rgba(34,34,34,0.9);
+	color: #ffffff; 
+	padding: 1rem 1rem; 
+	margin-right: 0; 
+	
+}
