@@ -93,3 +93,11 @@ nav a{
 	flex: 1; 
 	padding: 0.5rem; 
 }
+.search-bar button{
+	background-color: #222222;
+	border: 1px solid #c78c06; 
+	color: #c78c06;
+	display: flex; 
+	align-items: center;
+	justify-content: center;
+}
