@@ -298,5 +298,12 @@ nav a{
 	margin-bottom: 0.75rem;
 	border: 1px solid black; 
 	font-size: 0.9rem; 
-
+}
+.contact-form button{
+	background-color: #222222;
+	color:#c78c06;
+	border: none;
+	padding: 0.4rem 0.4rem; 
+	font-size: 1rem; 
+	font-weight: 500; 
 }
