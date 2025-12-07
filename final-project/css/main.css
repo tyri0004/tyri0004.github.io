@@ -202,3 +202,10 @@ nav a{
 	font-size: 4rem; 
 }
 /* vision section */
+.vision{
+	background-image: url(../images/vision.jpg);
+	background-size: cover;
+	background-position: center;
+	color:#ffffff;
+	padding: 1.5rem;
+}
