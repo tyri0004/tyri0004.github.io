@@ -320,3 +320,9 @@ nav a{
 	width: 100%;
 	border: 1px solid black; 
 }
+.hours th, .hours td{
+	border: 1px solid black; 
+	padding: 0.5rem; 
+	font-size: 1rem; 
+	text-align: left;
+}
