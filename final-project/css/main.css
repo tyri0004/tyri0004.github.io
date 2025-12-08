@@ -470,6 +470,11 @@ footer a{
 		font-size: 0.9rem; 
 		margin-top: auto;
 	}
+	.services-button .material-symbols-outlined{
+		font-size: 1.1rem;
+		margin-left: 1.5rem;
+	}
+	/* vision */
 
 
 
