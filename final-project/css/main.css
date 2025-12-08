@@ -459,6 +459,17 @@ footer a{
 		flex-direction: column;
 	}
 	/* service buttons */
+	.services-button{
+		display: inline-flex; 
+		align-items: center; 
+		justify-content: space-between; 
+		background-color: #222222;
+		color: #ffffff;
+		text-decoration: none;
+		padding: 0.9rem 1.8rem;
+		font-size: 0.9rem; 
+		margin-top: auto;
+	}
 
 
 
