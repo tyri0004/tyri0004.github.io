@@ -503,6 +503,34 @@ footer a{
 		order: 1;
 	}
 
+	/* contact, hours, map */
+	.contact-section{
+		padding: 3rem 4.5rem;
+		display: grid; 
+		grid-template-columns: 2fr 2fr;
+		grid-template-areas: 
+		"title title"
+		"form map"
+		"hours hours";
+		column-gap: 2rem; 
+		row-gap: 2rem; 
+	}
+	.contact-section h2{
+		grid-area: title; 
+
+	}
+	.contact-form{
+		grid-area: form; 
+		margin-bottom: 0;
+	}
+	.location{
+		grid-area: map;
+	}
+	.hours{
+		grid-area: hours;
+		margin-bottom: 0;
+	}
+
 
 
 
