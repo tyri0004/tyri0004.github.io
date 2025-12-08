@@ -415,7 +415,18 @@ footer a{
 		height: 100%;
 		object-fit: cover; 
 	}
-	
+	/* services */
+	.services{
+		padding: 3rem 4.5rem; 
+		display: grid;
+		grid-template-columns:  repeat(6, 1fr);
+	}
+	.services h2{
+		grid-column: 1/-1;
+		margin-bottom: 1rem;
+		
+	}
+
 
 
 }
