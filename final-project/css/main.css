@@ -384,5 +384,9 @@ footer a{
 		gap: 2rem; 
 		margin-left: 3rem;
 	}
+	.search-bar{
+		max-width: 300px; 
+		margin-left: auto;
+	}
 
 }
