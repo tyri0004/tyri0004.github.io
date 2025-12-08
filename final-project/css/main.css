@@ -398,6 +398,10 @@ footer a{
 		justify-content: center; 
 		min-height: 500px; 
 	}
+	.mainheading{
+		max-width: 80%;
+		padding: 7rem 3rem;
+	}
 
 
 }
