@@ -83,12 +83,12 @@ nav ul{
 nav a{
 	text-decoration: none; 
 	color:#c78c06; 
+	padding: 1rem 2rem; 
 
 }
 nav a:hover{
 	background-color: #c78c06;
-	color: #222222;
-	padding: 1rem 2rem; 
+	color: #222222;	
 }
 .search-bar{
 	display: flex;
@@ -126,7 +126,7 @@ nav a:hover{
 
 }
 .mainheading h1{
-	font-size: 4rem; 
+	font-size: 3rem; 
 	margin-bottom: 1.5rem; 
 	font-weight: bold; 
 	line-height: 1.8; 
