@@ -362,3 +362,25 @@ footer{
 footer a{
 	color: #c78c06;
 }
+/* Desktop layout start */
+
+@media screen and (min-width: 760px){
+	/* navigation and header */
+	.navigation{
+		display: flex; 
+		align-items: center; 
+		padding: 1rem;
+	}
+	.logo{
+		padding: 0.5rem 1rem; 
+		width: auto; 
+	}
+	.navigation nav{
+		margin-top: 0; 
+		margin-left: 1rem; 
+	}
+	nav ul{
+		flex-direction: row; 
+		gap: 2rem; 
+	}
+}
