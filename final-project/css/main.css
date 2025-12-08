@@ -475,6 +475,18 @@ footer a{
 		margin-left: 1.5rem;
 	}
 	/* vision */
+	.vision-text{
+		padding: 3rem 4.5rem;
+	}
+	/* team */
+	.team{
+		padding: 3rem 4.5rem;
+	}
+	.our-team{
+		display: grid; 
+		grid-template-columns: 1fr 1fr; 
+		margin-bottom: 2rem; 
+	}
 
 
 
