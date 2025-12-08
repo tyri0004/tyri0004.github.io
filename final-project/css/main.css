@@ -85,6 +85,11 @@ nav a{
 	color:#c78c06; 
 
 }
+nav a:hover{
+	background-color: #c78c06;
+	color: #222222;
+	padding: 1rem 2rem; 
+}
 .search-bar{
 	display: flex;
 }
