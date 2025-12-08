@@ -387,7 +387,7 @@ footer a{
 		display: flex; 
 		flex-direction: row; 
 		gap: 1rem;
-		margin-left: 3rem;
+		margin-left: 2rem;
 	}
 	.home{
 		color:#c78c06;
