@@ -426,6 +426,13 @@ footer a{
 		margin-bottom: 1rem;
 		
 	}
+	.services-text{
+		display: flex; 
+		flex-direction: column; 
+		margin-bottom: 0;
+		background-color: #ffe6ac;
+	}
+	
 
 
 
